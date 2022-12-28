@@ -37,7 +37,7 @@ joon's github
 -----
 |Study|Language|Contents|Date|
 |:------:|:-----:|:-----:|:-----:|
-|Nodejs|<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"><img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">|Nodejs 스터디|2022-09 ~ 2022-11|
+|Nodejs|<img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white"><br><img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">|Nodejs 스터디|2022-09 ~ 2022-11|
 <!--
 **hyoungj00n/hyoungj00n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
