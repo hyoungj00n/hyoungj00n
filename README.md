@@ -37,13 +37,15 @@ joon's github
 
 * DevOps<br/>
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"><br/>
+
 :pencil2:Team Study
------
+-----------------
 |Study|Language|Contents|Date|
 |:------:|:-----:|:-----:|:-----:|
 |Nodejs|<img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white"><br><img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">|Nodejs 스터디|2022-09 ~ 2022-11|
 
 :green_book:Study
+----------------
 |Study|Language|Contents|Date|
 |:------:|:-----:|:-----:|:-----:|
 
