@@ -1,5 +1,14 @@
-<img width="394" alt="image" src="https://user-images.githubusercontent.com/110275678/209837486-dff494ff-00ff-463c-bb7b-72492eb16ac3.png">
+활동
+----
 
+Project
+-------
+
+Stack
+-----
+
+Study
+-----
 
 <!--
 **hyoungj00n/hyoungj00n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
