@@ -22,7 +22,7 @@ joon's github
 :hammer:Tech Stack
 -----
 *Language
-
+<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp  
 *Backend
 
 *Frontend
@@ -33,11 +33,15 @@ joon's github
 
 *DevOps
 
-:pencil2:Study
+:pencil2:Team Study
 -----
 |Study|Language|Contents|Date|
 |:------:|:-----:|:-----:|:-----:|
 |Nodejs|<img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white"><br><img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">|Nodejs 스터디|2022-09 ~ 2022-11|
+
+:green_book:Study
+|Study|Language|Contents|Date|
+|:------:|:-----:|:-----:|:-----:|
 <!--
 **hyoungj00n/hyoungj00n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
