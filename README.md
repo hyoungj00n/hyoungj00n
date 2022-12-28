@@ -2,12 +2,13 @@
 ----
 |Title|Organization|Date|
 |:------:|:-----:|:-----:|
-|테스트1|테스트2|테스트3|
+
 
 :books:Team Project
 --------
 |Title|Project|Contents|Date|
 |:------:|:-----:|:-----:|:-----:|
+
 :computer:Project
 -------
 |Title|Language|Contents|Date|
@@ -15,6 +16,17 @@
 
 :hammer:Tech Stack
 -----
+*Language
+
+*Backend
+
+*Frontend
+
+*DBMS
+
+*Elastic Stack
+
+*DevOps
 
 :pencil2:Study
 -----
