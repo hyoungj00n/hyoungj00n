@@ -6,6 +6,7 @@ joon's github
 :scroll:활동
 ----
 |Title|Organization|Date|
+|AWS/Elastic 교육||1/9 ~ 1/25|
 |:------:|:-----:|:-----:|
 
 
@@ -37,7 +38,7 @@ joon's github
 * Elastic Stack<br/>
 
 * DevOps<br/>
-<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"><br/> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 
 :pencil2:Team Study
 -----------------
