@@ -5,9 +5,9 @@ joon's github
 
 :scroll:활동
 ----
-|Title|Organization|Date|
-|:------:|:-----:|:-----:|
-
+|Title|Organization|part|Date|
+|:------:|:-----:|:-----:|:-----:|
+|UMC|동아리|Server(node.js)|2022-09-15 ~|
 
 
 :books:Team Project
@@ -50,4 +50,5 @@ joon's github
 ----------------
 |Study|Language|Contents|Date|
 |:------:|:-----:|:-----:|:-----:|
-|AWS/Elastic 교육|<img src="https://img.shields.io/badge/Elastic Stack-232F3E?style=flat&logo=Elastic Stack&logoColor=white">|1/9 ~ 1/25|
+||<img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white"></br><img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white"><br/>  |로그인 & 회원가입 구현|2022-12-26 ~ 2022-01-5|
+|[]|<img src="https://img.shields.io/badge/Elastic Stack-232F3E?style=flat&logo=Elastic Stack&logoColor=white"> <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazonaws&logoColor=white">|AWS/Elastic 교육|2023-01-9 ~ 2023-01-25|
