@@ -38,7 +38,7 @@ joon's github
 * Elastic Stack<br/>
 
 * DevOps<br/>
-<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazonaws&logoColor=white">
 
 :pencil2:Team Study
 -----------------
@@ -50,4 +50,4 @@ joon's github
 ----------------
 |Study|Language|Contents|Date|
 |:------:|:-----:|:-----:|:-----:|
-|AWS/Elastic 교육|<img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=Elastic Stack&logoColor=white">|1/9 ~ 1/25|
+|AWS/Elastic 교육|<img src="https://img.shields.io/badge/Elastic Stack-232F3E?style=flat&logo=Elastic Stack&logoColor=white">|1/9 ~ 1/25|
