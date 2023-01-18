@@ -6,8 +6,8 @@ joon's github
 :scroll:활동
 ----
 |Title|Organization|Date|
-|AWS/Elastic 교육||1/9 ~ 1/25|
 |:------:|:-----:|:-----:|
+|AWS/Elastic 교육|상명대학교|1/9 ~ 1/25|
 
 
 :books:Team Project
