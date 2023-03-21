@@ -10,7 +10,7 @@ joon's github
 |UMC|동아리|Server(node.js)|2022-09-15 ~2023-02-16|
 
 
-💻:Project
+💻 Project
 --------
 |Title|Stack|Contents|Date|
 |:------:|:-----:|:-----:|:-----:|
