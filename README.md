@@ -10,17 +10,14 @@ joon's github
 |UMC|동아리|Server(node.js)|2022-09-15 ~2023-02-16|
 
 
-:books:Team Project
+💻:Project
 --------
 |Title|Stack|Contents|Date|
 |:------:|:-----:|:-----:|:-----:|
 |Better-me|<img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">|습관 관리 앱 개발|2023-01-05 ~ 2023-02-16|
 |Elastic stack 활용|<img src="https://img.shields.io/badge/elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=#005571"> <img src="https://img.shields.io/badge/kibana-005571?style=flat&logo=kibana&logoColor=#005571"> <img src="https://img.shields.io/badge/logstash-005571?style=flat&logo=logstash&logoColor=#005571">|따릉이 적자 해소를 위한 데이터 분석|2023-01-31~2023-03-01|
 
-:computer:Project
--------
-|Title|Language|Contents|Date|
-|:------:|:-----:|:-----:|:-----:|
+
 
 
 
