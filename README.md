@@ -52,5 +52,7 @@ joon's github
 |:------:|:-----:|:-----:|:-----:|
 |[Node study]|<img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white"></br><img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">|로그인 & 회원가입 구현|2022-12-26 ~ 2022-01-05|
 |[AWS/Elastic 교육]|<img src="https://img.shields.io/badge/Elastic Stack-232F3E?style=flat&logo=Elastic Stack&logoColor=white"> <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazonaws&logoColor=white">|AWS/Elastic 교육|2023-01-09 ~ 2023-01-25|
-|elstic stack|<img src="https://img.shields.io/badge/elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=#005571"> <img src="https://img.shields.io/badge/kibana-005571?style=flat&logo=kibana&logoColor=#005571"> <img src="https://img.shields.io/badge/logstash-005571?style=flat&logo=logstash&logoColor=#005571">|books & Documents|2023-02~|
+|elstic stack|<img src="https://img.shields.io/badge/elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=#005571"> <img src="https://img.shields.io/badge/kibana-005571?style=flat&logo=kibana&logoColor=#005571"> <img src="https://img.shields.io/badge/logstash-005571?style=flat&logo=logstash&logoColor=#005571">|books & Documents|2023-02~2023-04|
 |[Algorithm](https://github.com/hyoungj00n/Baekjoon)|<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">|백준 문제풀이|2023-03~|
+|Spring boot|<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">|inflearn 김영준 강사님|2023-04~|
+|AWS|<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AWS&logoColor=white">|fastcampus, aws 공식 사이트 자료|2023-06~
