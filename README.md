@@ -16,7 +16,7 @@ joon's github
 |:------:|:-----:|:-----:|:-----:|
 |Better-me|<img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">|습관 관리 앱 개발|2023-01-05 ~ 2023-02-16|
 |Elastic stack 활용|<img src="https://img.shields.io/badge/elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=#005571"> <img src="https://img.shields.io/badge/kibana-005571?style=flat&logo=kibana&logoColor=#005571"> <img src="https://img.shields.io/badge/logstash-005571?style=flat&logo=logstash&logoColor=#005571">|따릉이 적자 해소를 위한 데이터 분석|2023-01-31~2023-03-01|
-|software-engineering 전공||to-do-list|2023-05-01~2023-06-21|
+|software-engineering 전공|<img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat&logo=Spring boot&logoColor=white">|to-do-list|2023-05-01~2023-06-21|
 
 
 
@@ -56,4 +56,5 @@ joon's github
 |elstic stack|<img src="https://img.shields.io/badge/elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=#005571"> <img src="https://img.shields.io/badge/kibana-005571?style=flat&logo=kibana&logoColor=#005571"> <img src="https://img.shields.io/badge/logstash-005571?style=flat&logo=logstash&logoColor=#005571">|books & Documents|2023-02~2023-04|
 |[Algorithm](https://github.com/hyoungj00n/Baekjoon)|<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">|백준 문제풀이|2023-03~|
 |Spring boot|<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat&logo=Spring boot&logoColor=white">|inflearn 김영준 강사님|2023-04~|
-|AWS|<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AWS&logoColor=white">|fastcampus, aws 공식 사이트 자료|2023-06~
+|AWS|<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AWS&logoColor=white">|fastcampus, aws 공식 사이트 자료|2023-06~|
+|opengl|<img src="https://img.shields.io/badge/opengl-5586A4?style=flat&logo=opengl&logoColor=white">|learnopengl 학습|2023-03-02~2023-06-13|
