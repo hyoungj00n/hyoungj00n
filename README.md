@@ -50,6 +50,8 @@ joon's github
 |:------:|:-----:|:-----:|:-----:|
 |Nodejs|<img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white"><br><img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">|Nodejs 스터디|2022-09-01 ~ 2022-11-01|
 |딥러닝|<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=#EE4C2C">|언어 모델, 이미지 생성 모델|2023-07-01 ~ 2023-08-01|
+
+
 :green_book:Study
 ----------------
 |Study|Language|Contents|Date|
