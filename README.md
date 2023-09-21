@@ -1,9 +1,9 @@
-joon's github
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=joon's%20github&fontSize=90)
 =============
 &nbsp;
 &nbsp;
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=tistory)](https://khjoon372.tistory.com/)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=khj372)](https://velog.io/@khj372) 
+
 
 
 :scroll:활동
