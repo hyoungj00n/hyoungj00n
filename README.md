@@ -2,7 +2,7 @@
 =============
 &nbsp;
 &nbsp;
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=tistory)](https://khjoon372.tistory.com/)
+
 
 
 
