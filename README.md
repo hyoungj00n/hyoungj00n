@@ -2,8 +2,8 @@ joon's github
 =============
 &nbsp;
 &nbsp;
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=khj372)]((https://velog.io/@khj372))
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={tistory})]([https://github.com/loosie/github-readme-tistory-card](https://khjoon372.tistory.com/))
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=khj372)](https://velog.io/@khj372)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={tistory})](https://khjoon372.tistory.com/)
 
 :scroll:활동
 ----
@@ -66,7 +66,7 @@ joon's github
 |AWS Certified Developer Associate 자격증 취득 |<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AWS&logoColor=white">|aws 공식 사이트 자료,udemy|2023-06-01~2023-08-29|
 |opengl|<img src="https://img.shields.io/badge/opengl-5586A4?style=flat&logo=opengl&logoColor=white">|learnopengl 학습|2023-03-02~2023-06-13|
 
-<div align="center/right/left">
-<img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyoungj00n&show_icons=true&theme=transparent)">
-<img src="[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khj372)](https://solved.ac/khj372/)">
-</div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyoungj00n)](https://github.com/hyoungj00n/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khj372)](https://solved.ac/khj372/)
+
