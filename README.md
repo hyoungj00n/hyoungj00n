@@ -2,8 +2,8 @@ joon's github
 =============
 &nbsp;
 &nbsp;
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=khj372)]([벨로그링크](https://velog.io/@khj372))
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={insert_name})]([https://github.com/loosie/github-readme-tistory-card](https://khjoon372.tistory.com/))
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=khj372)]((https://velog.io/@khj372))
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={tistory})]([https://github.com/loosie/github-readme-tistory-card](https://khjoon372.tistory.com/))
 
 :scroll:활동
 ----
@@ -68,5 +68,5 @@ joon's github
 
 <div align="center/right/left">
 <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyoungj00n&show_icons=true&theme=transparent)">
-<img src="[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/khj372/)">
+<img src="[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khj372)](https://solved.ac/khj372/)">
 </div>
