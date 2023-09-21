@@ -2,8 +2,8 @@ joon's github
 =============
 &nbsp;
 &nbsp;
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=khj372)](https://velog.io/@khj372)
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={tistory})](https://khjoon372.tistory.com/)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=khj372)](https://velog.io/khj372) 
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=tistory)](https://khjoon372.tistory.com/)
 
 :scroll:활동
 ----
