@@ -63,3 +63,8 @@ joon's github
 |Spring boot|<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat&logo=Spring boot&logoColor=white">|inflearn 김영준 강사님|2023-04~|
 |AWS Certified Developer Associate 자격증 취득 |<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AWS&logoColor=white">|aws 공식 사이트 자료,udemy|2023-06-01~2023-08-29|
 |opengl|<img src="https://img.shields.io/badge/opengl-5586A4?style=flat&logo=opengl&logoColor=white">|learnopengl 학습|2023-03-02~2023-06-13|
+
+<div align="center/right/left">
+<img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyoungj00n&show_icons=true&theme=transparent)">
+<img src="[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/khj372/)">
+</div>
