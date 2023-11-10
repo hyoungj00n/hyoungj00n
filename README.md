@@ -66,10 +66,9 @@
 ----------------
 |Study|Language|Contents|Date|
 |:------:|:-----:|:-----:|:-----:|
-|[Node study](https://github.com/hyoungj00n/sns-node)|<img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white"></br><img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">|로그인 & 회원가입 구현|2022-12-26 ~ 2022-01-05|
 |[AWS/Elastic 교육](https://velog.io/@khj372/%EA%B5%90%EC%9C%A1-1)|<img src="https://img.shields.io/badge/Elastic Stack-232F3E?style=flat&logo=Elastic Stack&logoColor=white"> <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazonaws&logoColor=white">|AWS/Elastic 교육|2023-01-09 ~ 2023-01-25|
 |elstic stack|<img src="https://img.shields.io/badge/elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=#005571"> <img src="https://img.shields.io/badge/kibana-005571?style=flat&logo=kibana&logoColor=#005571"> <img src="https://img.shields.io/badge/logstash-005571?style=flat&logo=logstash&logoColor=#005571">|books & Documents|2023-02~2023-04|
-|[Algorithm](https://github.com/hyoungj00n/Baekjoon)|<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">|백준 문제풀이|2023-03~|
+|[Algorithm](https://github.com/hyoungj00n/codingtest)|<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">|백준 문제풀이|2023-03~|
 |[Spring-inflearn](https://github.com/hyoungj00n/Spring-inflearn)|<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat&logo=Spring boot&logoColor=white">|inflearn 김영한 강사님|2023-04~|
 |[AWS Certified Developer Associate 자격증 취득](https://velog.io/@khj372/AWS-certificate-developer-associate-%ED%95%A9%EA%B2%A9) |<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AWS&logoColor=white">|aws 공식 사이트 자료,udemy|2023-06-01~2023-08-29|
 |[opengl](https://github.com/hyoungj00n/opengl-project)|<img src="https://img.shields.io/badge/opengl-5586A4?style=flat&logo=opengl&logoColor=white">|learnopengl 학습|2023-03-02~2023-06-13|
