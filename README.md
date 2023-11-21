@@ -32,7 +32,7 @@
 :hammer:Tech Stack
 -----
 * Language<br/>
-<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C%2B%2B&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> 
 
 * Backend<br/>
 <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white">  <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat&logo=Spring boot&logoColor=white"><br/>  
@@ -49,8 +49,7 @@
 * DevOps<br/>
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
 
-* Deep Learning<br/>
-  <img src="https://img.shields.io/badge/pytorch-3776AB?style=flat&logo=pytorch&logoColor=#EE4C2C">
+
 
 
 :pencil2:Team Study
