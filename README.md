@@ -11,7 +11,6 @@
 |Title|Organization|part|Date|
 |:------:|:-----:|:-----:|:-----:|
 |UMC|동아리|Server(node.js)|2022-09-15 ~2023-02-16|
-|outta|교육|딥러닝|2023-07-01 ~ 2023-08-24|
 |UMC|동아리|Server(Spring)|2023-09-15 ~|
 
 
