@@ -36,14 +36,10 @@
 * Backend<br/>
 <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white">  <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat&logo=Spring boot&logoColor=white"><br/>  
 
-* Frontend<br/>
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"><br/>
 
 * data<br/>
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
 
-* Elastic Stack<br/>
-<img src="https://img.shields.io/badge/elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=#005571"> <img src="https://img.shields.io/badge/kibana-005571?style=flat&logo=kibana&logoColor=#005571"> <img src="https://img.shields.io/badge/logstash-005571?style=flat&logo=logstash&logoColor=#005571">
 
 * DevOps<br/>
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
