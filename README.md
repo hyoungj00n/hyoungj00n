@@ -10,8 +10,8 @@
 ----
 |Title|Organization|part|Date|
 |:------:|:-----:|:-----:|:-----:|
-|UMC|동아리|Server(node.js)|2022-09-15 ~2023-02-16|
-|UMC|동아리|Server(Spring)|2023-09-15 ~|
+|UMC|동아리|Server(node.js)|2022-09-15 ~ 2023-02-16|
+|UMC|동아리|Server(Spring)|2023-09-15 ~ 2024-02-19|
 
 
 💻 Project
