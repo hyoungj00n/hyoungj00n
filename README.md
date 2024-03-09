@@ -22,7 +22,7 @@
 |[Elastic stack 활용](https://velog.io/@khj372/3)|<img src="https://img.shields.io/badge/elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=#005571"> <img src="https://img.shields.io/badge/kibana-005571?style=flat&logo=kibana&logoColor=#005571"> <img src="https://img.shields.io/badge/logstash-005571?style=flat&logo=logstash&logoColor=#005571">|따릉이 적자 해소를 위한 데이터 분석|2023-01-31~2023-03-01|
 |[GAN 구현](https://velog.io/@khj372/text-to-image-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)|<img src="https://img.shields.io/badge/pytorch-3776AB?style=flat&logo=pytorch&logoColor=#EE4C2C"> <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">|Stack GAN을 이용한 text to image|2023-08-01 ~ 2023-08-24|
 |[LG Aimers](https://velog.io/@khj372/LG-Aimers)|<img src="https://img.shields.io/badge/pytorch-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=#EE4C2C">|Dacon 수요 예측 모델 만들기|2023-08-01~2023-08-29|
-|TheGoods|<img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat&logo=Spring boot&logoColor=white"><br/>||2024-01~|
+|TheGoods|<img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat&logo=Spring boot&logoColor=white"><br/>|굿즈 판매 플랫폼 제작|2024-01~ 진행중|
 
 
 
