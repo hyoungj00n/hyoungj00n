@@ -22,7 +22,7 @@
 |[Better-me](https://velog.io/@khj372/2)|<img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">|습관 관리 앱 개발|2023-01-05 ~ 2023-02-16|
 |[Elastic stack 활용](https://velog.io/@khj372/3)|<img src="https://img.shields.io/badge/elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=#005571"> <img src="https://img.shields.io/badge/kibana-005571?style=flat&logo=kibana&logoColor=#005571"> <img src="https://img.shields.io/badge/logstash-005571?style=flat&logo=logstash&logoColor=#005571">|따릉이 적자 해소를 위한 데이터 분석|2023-01-31~2023-03-01|
 |TheGoods|<img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat&logo=Spring boot&logoColor=white"><br/>|굿즈 판매 플랫폼 제작|2024-01~ 진행중|
-|FoodZero|<img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat&logo=Spring boot&logoColor=white"><img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=#EE4C2C">|냉장고 관리 어플 제작|2024-01 ~|
+|FoodZero|<img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat&logo=Spring boot&logoColor=white"> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=#EE4C2C">|냉장고 관리 어플 제작|2024-01 ~ 진행중|
 
 
 
