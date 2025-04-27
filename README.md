@@ -1,9 +1,9 @@
 :hammer:Tech Stack
 -----
-* Language<br/><img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> 
+* Language<br/><img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">
 
 * Backend<br/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"><br/>
 
 
 * DBMS<br/>
